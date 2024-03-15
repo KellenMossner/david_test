@@ -13,3 +13,4 @@ simple lightweight testing script for cs314 proj1
 1. Clone this repo into your **proj1** folder
 2. Execute tests without deadlocks with `python3 david_test.py normal`
 3. Execute tests with deadlocks with `python3 david_test.py deadlock`
+please add tests for deadlocks without resolution
